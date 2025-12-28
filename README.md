@@ -2,6 +2,10 @@
 
 ### As of May 28, 2024, Pessimism has been deprecated and is no longer being actively maintained
 
+This repository contains experimental tooling and utilities related to pessimism-style workflows.
+It is primarily intended for development, testing, and exploration, and may change over time.
+
+
 ## Because you can't always be optimistic
 
 _Pessimism_ is a public good monitoring service that allows for [OP Stack](https://stack.optimism.io/)
