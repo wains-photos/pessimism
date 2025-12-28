@@ -176,6 +176,10 @@ A bootstrap config file is used to define the initial state of the pessimism ser
     }
 ]
 ```
+### Local development
+
+This project is typically run in a local or test environment.
+Configuration and runtime details may vary depending on setup and are expected to evolve.
 
 ## Spawning a heuristic session
 
