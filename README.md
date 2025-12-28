@@ -98,14 +98,15 @@ files for compliance.
 
 ### Installation
 
-1. **Install Node.js**:
-If you haven't already, install [Node.js](https://nodejs.org/en).
+## Installation
 
-2. **Install markdownlint CLI globally**:
+To get started with the project, follow these steps:
 
-```bash
-npm install -g markdownlint-cli
-```
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/lad-sharper/docs.git
+   cd docs
+
 
 ### Linting with markdownlint
 
